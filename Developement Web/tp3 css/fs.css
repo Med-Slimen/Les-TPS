@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+}
+header{
+    text-transform: uppercase;
+    font-size: 30px;    
+}
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 80%;
+}
+nav a:link{
+    color: blue;
+    font-style: italic;
+}
+nav a:visited{
+    color: red;
+    font-weight: bold;
+}
+article{
+    background-color: #ccf;
+    width: 80%;
+    height: 400px;
+}
+table{
+    background-image: url("1.webp");
+    width: 40%;
+    height: 300px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 250px;
+    font-size: 20px;
+    text-align: center;
+}
+tr,td,th{
+    border: double blue 1px;
+}
+footer{
+    text-transform: lowercase;
+    font-size: 20px;
+}
+.x{
+    background-color:#6A5ACD ;
+    color: lightpink;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 80%;
+}

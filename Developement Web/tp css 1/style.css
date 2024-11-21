@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+}
+p{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+h1{
+    color: green;
+    font-size: large;
+}
+.c1{
+    font-weight: bold;
+    color: green;
+}
+.c2{
+    font-size: x-large;
+}
+.c3{
+    font-size: x-small;
+}
+.pos{
+    position: absolute;
+    top: 80px;
+    left: 200px;
+}
