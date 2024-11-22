@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1729257424 source:c:\users\info 02 - pc 02\desktop\tp5\main.c
+	<stdlib.h>
+
+1729257898 source:c:\users\info 02 - pc 02\desktop\tp5\ex2.c
+	<stdlib.h>
+
+1729260586 source:c:\users\info 02 - pc 02\desktop\tp5\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1729261153 source:c:\users\info 02 - pc 02\desktop\tp5\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1729262073 source:c:\users\info 02 - pc 02\desktop\tp5\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
+1729263230 source:c:\users\info 02 - pc 02\desktop\tp5\ex6.c
+	<stdio.h>
+	<stdlib.h>
+
+1729254298 source:d:\new folder\prog\tp5\ex2.c
+	<stdlib.h>
+
+1729712927 source:d:\new folder\prog\tp5\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1729257553 source:d:\new folder\prog\tp5\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1729712459 source:d:\new folder\prog\tp5\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
+1729716676 source:d:\new folder\prog\tp5\ex6.c
+	<stdio.h>
+	<stdlib.h>
+
+1729253824 source:d:\new folder\prog\tp5\main.c
+	<stdlib.h>
+
+1729718485 source:d:\new folder\prog\tp5\ex7.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+

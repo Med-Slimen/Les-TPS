@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728601584 source:c:\users\houssem\desktop\prog\palestine\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728601610 source:c:\users\houssem\desktop\prog\palestine\pales.c
+	<stdio.h>
+	<stdlib.h>
+

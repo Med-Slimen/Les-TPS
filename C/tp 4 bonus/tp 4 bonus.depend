@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1729200429 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1729030522 source:c:\users\houssem\desktop\prog\tp 4 bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729200558 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1729286273 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1729286918 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
+1729287979 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex6.c
+	<stdio.h>
+	<stdlib.h>
+
+1729288323 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex7.c
+	<stdio.h>
+	<stdlib.h>
+
+1729288617 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex8.c
+	<stdio.h>
+	<stdlib.h>
+
+1729289072 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex9.c
+	<stdio.h>
+	<stdlib.h>
+
+1729354627 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex10.c
+	<stdio.h>
+	<stdlib.h>
+
+1729636906 source:c:\users\houssem\desktop\prog\tp 4 bonus\ex11.c
+	<stdio.h>
+	<stdlib.h>
+

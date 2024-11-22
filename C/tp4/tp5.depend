@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1286868411 source:g:\new folder\prog\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1286867730 source:c:\users\info12-4\videos\untitled1.c
+
+1286869109 source:g:\new folder\prog\tp5\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1286874937 source:g:\new folder\prog\tp5\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1286871399 source:g:\new folder\prog\tp5\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1286875490 source:g:\new folder\prog\tp5\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
+1286865509 source:d:\new folder\prog\tp4\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1286871337 source:d:\new folder\prog\tp4\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1286867799 source:d:\new folder\prog\tp4\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1286864811 source:d:\new folder\prog\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728683538 source:d:\new folder\prog\tp4\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
