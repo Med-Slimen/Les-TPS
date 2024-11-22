@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1731013958 source:c:\users\houssem\desktop\prog\tp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731014702 source:c:\users\houssem\desktop\prog\tp6\ex2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731360015 source:c:\users\houssem\desktop\prog\tp6\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731535350 source:c:\users\houssem\desktop\prog\tp6\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731627952 source:c:\users\houssem\desktop\prog\tp6\ex5.c
+	<stdio.h>
+	<string.h>
+
+1731014702 source:d:\new folder\prog\tp6\ex2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731360015 source:d:\new folder\prog\tp6\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731535350 source:d:\new folder\prog\tp6\ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731013958 source:d:\new folder\prog\tp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732051115 source:d:\new folder\prog\tp6\ex5.c
+	<stdio.h>
+	<string.h>
+

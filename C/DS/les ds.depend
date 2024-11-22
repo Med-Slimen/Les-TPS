@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1729807471 source:c:\users\houssem\desktop\prog\les ds\ds2020+2018_ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1729464772 source:c:\users\houssem\desktop\prog\les ds\ds2020+2018_ex1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1729546758 source:c:\users\houssem\desktop\prog\les ds\ds2023_ex1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1729550417 source:c:\users\houssem\desktop\prog\les ds\ds2022_ex1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1729638166 source:c:\users\houssem\desktop\prog\les ds\ds2021_ex2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1729808802 source:c:\users\houssem\desktop\prog\les ds\test.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1729813065 source:c:\users\houssem\desktop\prog\les ds\ds2022_ex2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

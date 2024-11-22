@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1731660055 source:f:\new folder\prog\tp7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1731660705 source:f:\new folder\prog\tp7\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1731662376 source:f:\new folder\prog\tp7\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1731664625 source:f:\new folder\prog\tp7\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1731660705 source:d:\new folder\prog\tp7\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1731662376 source:d:\new folder\prog\tp7\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1731667237 source:d:\new folder\prog\tp7\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1731667952 source:d:\new folder\prog\tp7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1732142863 source:d:\new folder\prog\tp7\ex5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
