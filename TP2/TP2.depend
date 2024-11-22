@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1727424707 source:f:\prog\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1727427238 source:c:\users\info14-5\desktop\tp2\main.c
+
+1727427233 source:c:\users\info14-5\desktop\tp2\ex2.c
+
+1727428081 source:c:\users\info14-5\desktop\tp2\ex3.c
+
+1727428059 source:c:\users\info14-5\desktop\tp2\ex4.c
+	<stdio.h>
+
+1727428939 source:c:\users\info14-5\desktop\tp2\ex5.c
+	<stdio.h>
+
+1727432199 source:c:\users\info14-5\desktop\tp2\ex6.c
+	<stdio.h>
+	<stdlib.h>
+
+1727432577 source:c:\users\info14-5\desktop\tp2\ex7.c
+	<stdio.h>
+	<stdlib.h>
+

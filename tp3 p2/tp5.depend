@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1728222837 source:c:\users\houssem\desktop\prog\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728222744 source:c:\users\houssem\desktop\prog\tp5\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1728222896 source:c:\users\houssem\desktop\prog\tp5\ex3.c
+	<stdio.h>
+	<stdlib.h>
+
+1728222927 source:c:\users\houssem\desktop\prog\tp5\ex4.c
+	<stdio.h>
+	<stdlib.h>
+
+1728223014 source:c:\users\houssem\desktop\prog\tp5\ex5.c
+	<stdio.h>
+	<stdlib.h>
+
+1728223068 source:c:\users\houssem\desktop\prog\tp5\ex6.c
+	<stdio.h>
+	<stdlib.h>
+
+1728223173 source:c:\users\houssem\desktop\prog\tp5\ex7.c
+	<stdio.h>
+	<stdlib.h>
+
+1728233984 source:c:\users\houssem\desktop\prog\tp5\ex8.c
+	<stdio.h>
+	<stdlib.h>
+
+1728254692 source:c:\users\houssem\desktop\prog\tp5\ex9.c
+	<stdio.h>
+	<stdlib.h>
+
+1728257840 source:c:\users\houssem\desktop\prog\tp5\ex10.c
+	<stdio.h>
+	<stdlib.h>
+
+1728510971 source:c:\users\houssem\desktop\prog\tp5\ex11.c
+	<stdio.h>
+	<stdlib.h>
+
+1728511605 source:c:\users\houssem\desktop\prog\tp5\ex12.c
+	<stdio.h>
+	<stdlib.h>
+
